@@ -12,6 +12,12 @@ import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Calendar;
 
+ /*
+  * Created by Ellery Kreloff on behalf of Aaron G, to make his SOAR data entry tolerable.
+  * 7/14/16
+  * JC
+  */
+  
 public class Main {
 	
 	public static final Scanner scnr = new Scanner(System.in);
